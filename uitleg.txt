@@ -1,0 +1,1 @@
+Ze worden allebei voor formulieren gebruikt, bij GET krijg je de ingevulde waardes in het adresbalk en bij POST niet, ze worden ergens anders opgeslagen.
